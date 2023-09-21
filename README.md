@@ -10,3 +10,4 @@ Database and Tools
 MYSQL
 Schema- Music Store Database
 https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png
+![image](https://github.com/Mukesh221999/SQL_Music_store_analysis/assets/101379182/249fa88b-5b40-41e6-8891-4374ab652e13)
