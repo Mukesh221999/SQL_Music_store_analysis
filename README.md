@@ -15,7 +15,7 @@ Schema- Music Store Database
 
 SQL PROJECT- MUSIC STORE DATA ANALYSIS
 
-Question Set 1 - Easy
+*Question Set 1 - Easy*
 
 1. Who is the senior most employee based on job title?
 2. Which countries have the most Invoices?
@@ -28,7 +28,7 @@ totals
 declared the best customer. Write a query that returns the person who has spent the
 most money
 
-Question Set 2 – Moderate
+*Question Set 2 – Moderate*
 
 1. Write query to return the email, first name, last name, & Genre of all Rock Music
 listeners. Return your list ordered alphabetically by email starting with A
@@ -38,7 +38,7 @@ query that returns the Artist name and total track count of the top 10 rock band
 Return the Name and Milliseconds for each track. Order by the song length with the
 longest songs listed first
 
-Question Set 3 – Advance
+*Question Set 3 – Advance*
 
 1. Find how much amount spent by each customer on artists? Write a query to return
 customer name, artist name and total spent
